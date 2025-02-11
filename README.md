@@ -1,6 +1,6 @@
 # Unreal Engine Game Development Course 2025 - Vigamus Academy
 
-Welcome to the **Unreal Engine Game Development** online course at **Vigamus Academ - Deutschland**!
+Welcome to the **Unreal Engine Game Development** online course at **Vigamus Academy - Deutschland**!
 This course is designed to teach you the ins and outs of **Unreal Engine game development**. From programming basics to software development principles to real-time rendering of interactive media.
 
 This repository reflects bits and pieces of a code base designed to accommodate the specific live online lectures.
@@ -17,7 +17,7 @@ TBD
 1. Download and install **Unreal Engine** from [Epic Games](https://www.unrealengine.com/).
 2. Download and install either of the following:<br>
     a. **Visual Studio Community** from [https://learn.microsoft.com/de-de/visualstudio/gamedev/unreal/get-started/vs-tools-unreal-install] <br>
-    b. **JetBrains Rider** from [https://www.jetbrains.com/help/rider/Installation_guide.html]
+    b. **JetBrains Rider** from [https://www.jetbrains.com/help/rider/Installation_guide.html] (⭐ I will be mainly using this.)
 4. Download and install **git** from [https://git-scm.com/downloads/]
 5. Download and install **git LFS** from [https://git-lfs.com/]
 6. Clone this repository:
