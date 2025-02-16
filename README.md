@@ -6,11 +6,18 @@ This course is designed to teach you the ins and outs of **Unreal Engine game de
 This repository reflects bits and pieces of a code base designed to accommodate the specific live online lectures.
 
 ## Course Overview
-In this course, you will:
-TBD
+In this course, some topics are:
+- Introduction to Unreal
+- Introduction to Version Control
+- Blueprint Programming - Part 1
+- Blueprint Programming - Part 2
+- Object-oriented Programming - C++
+- Real-time Rendering
+- Advanced Programming - Data Driven Gameplay
+- Further lectures.. 
 
 ## Prerequisites
-- A PC capable of running **Unreal Engine 5.x**.
+- A PC capable of running **Unreal Engine 5.4.3**.
 - Enthusiasm for game development!
 
 ## Getting Started
@@ -26,9 +33,11 @@ TBD
    ```
 7. Open the project in **Unreal Engine** and start developing!
 
+<!---
 ## Course Content
 The course is divided into the following sections:
 TBD
+-->
 
 ## Community & Support
 - Join our **Discord** for discussions and Q&A.
@@ -36,7 +45,7 @@ TBD
 - If you encounter issues, feel free to **open an issue** in this repository.
 
 ## License
-This course material is licensed under the **MIT License**. Feel free to use and modify it for your own projects.
+This course material is licensed under the **Unlicense**. Feel free to use and modify it for your own projects.
 
 ---
 Happy coding and enjoy your Unreal Engine journey! :rocket:
