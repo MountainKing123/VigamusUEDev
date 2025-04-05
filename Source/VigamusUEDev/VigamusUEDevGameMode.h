@@ -10,7 +10,7 @@ UCLASS(minimalapi)
 class AVigamusUEDevGameMode : public AGameModeBase
 {
 	GENERATED_BODY()
-	TObjectPtr<>
+
 public:
 	AVigamusUEDevGameMode();
 };
