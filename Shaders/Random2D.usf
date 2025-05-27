@@ -1,0 +1,8 @@
+﻿#pragma once
+
+float2 (float2 SamplePosition)
+{
+	SamplePosition = float2(dot(SamplePosition,float2(127.1,311.7)),
+							dot(SamplePosition,float2(269.5,183.3)));
+	return -1.0 + 2.0 * frac(sin(SamplePosition) * 43758.5453123);
+}
